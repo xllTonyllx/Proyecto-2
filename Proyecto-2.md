@@ -1,6 +1,6 @@
 "# Proyecto-2" 
 
-    '''
+    
     class Alumno{
         constructor(codigo,nombre,edad,carrera,tarea){
             if (edad<0 || edad>120){
@@ -21,4 +21,4 @@
             console.log('Solucion de la tareas: ',this.tarea);
         }
     }
-    '''
+    
